@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - World
+  - Water
+  - UI
+  - NPCs
+  - InteractableObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: World
+    uniqueID: 1064717703
+    locked: 0
+  - name: Interactable Objects
+    uniqueID: 3432593283
+    locked: 0
+  - name: NPCs
+    uniqueID: 395525811
+    locked: 0
+  - name: Player
+    uniqueID: 2905987527
+    locked: 0
+  - name: World Space UI
+    uniqueID: 1011890997
+    locked: 0
+  m_RenderingLayers:
+  - Default
