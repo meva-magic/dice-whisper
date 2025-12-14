@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class PlayerInteraction : MonoBehaviour
 {
+    public static PlayerInteraction Instance;
+
     [SerializeField][Min(0f)] private float _interactionBoxWidth;
     [SerializeField][Min(0f)] private float _interactionBoxHeight;
 
@@ -12,12 +14,25 @@ public class PlayerInteraction : MonoBehaviour
 
     private readonly List<Interactable> _interactables = new();
 
+    private bool _isEnabled = true;
+
+    private void Awake()
+    {
+        if (Instance != null && Instance != this)
+            Destroy(gameObject);
+
+        Instance = this;
+    }
+
     private void Update()
     {
         foreach (Interactable interactable in _interactables)
             interactable.HideIndicator();
 
         _interactables.Clear();
+
+        if (!_isEnabled)
+            return;
 
         Collider2D[] colliders = Physics2D.OverlapBoxAll(transform.position, InteractionBoxSize, 0f, _interactablesLayerMask);
 
@@ -36,6 +51,9 @@ public class PlayerInteraction : MonoBehaviour
                 interactable.Interact();
         }
     }
+
+    public void EnableInteraction() => _isEnabled = true;
+    public void DisableInteraction() => _isEnabled = false;
 
     private void OnDrawGizmos()
     {

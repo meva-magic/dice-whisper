@@ -1,0 +1,25 @@
+{
+    "Name": "название диалога (должно совпадать с названием файла, его же нужно писать в DialogHelper и DialogStarter)",
+    "Items": [
+        {
+            "CharacterName": "отображаемое имя персонажа",
+            "Text": "текст реплики",
+            "StartsDiceGame": true | false
+        },
+        {
+            "CharacterName": "отображаемое имя персонажа",
+            "Text": "текст реплики",
+            "StartsDiceGame": true | false
+        },
+        {
+            "CharacterName": "отображаемое имя персонажа",
+            "Text": "текст реплики",
+            "StartsDiceGame": true | false
+        },
+        {
+            "CharacterName": "отображаемое имя персонажа",
+            "Text": "текст реплики",
+            "StartsDiceGame": true | false
+        }
+    ]
+}

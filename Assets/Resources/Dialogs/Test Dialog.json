@@ -1,0 +1,35 @@
+{
+    "Name": "Test Dialog",
+    "Items": [
+        {
+            "CharacterName": "Игрок",
+            "Text": "Текст реплики 1",
+            "StartsDiceGame": false
+        },
+        {
+            "CharacterName": "Тестовый персонаж",
+            "Text": "Текст реплики 2",
+            "StartsDiceGame": false
+        },
+        {
+            "CharacterName": "Игрок",
+            "Text": "Текст реплики 3",
+            "StartsDiceGame": false
+        },
+        {
+            "CharacterName": "Тестовый персонаж",
+            "Text": "Текст реплики 4 (начинает партию в кости)",
+            "StartsDiceGame": true
+        },
+        {
+            "CharacterName": "Тестовый персонаж",
+            "Text": "Текст реплики 5 (продолжение после партии)",
+            "StartsDiceGame": false
+        },
+        {
+            "CharacterName": "Игрок",
+            "Text": "Текст реплики 6",
+            "StartsDiceGame": false
+        }
+    ]
+}
