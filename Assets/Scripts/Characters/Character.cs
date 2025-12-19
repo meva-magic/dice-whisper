@@ -64,11 +64,4 @@ public abstract class Character : MonoBehaviour
         if (_score >= MaxScore)
             DiceGameManager.Instance.CharacterWon(this);
     }
-
-    public void ResetScore()
-    {
-        _score = 0;
-
-        DiceGameManager.Instance.UpdateCharacterScoreUI(this);
-    }
 }

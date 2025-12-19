@@ -456,7 +456,6 @@ public class DiceGameManager : MonoBehaviour
 
         if (_rollResult == 1)
         {
-            _activeCharacter.ResetScore();
             _currentScore = 0;
             SwitchActiveCharacter();
         }
