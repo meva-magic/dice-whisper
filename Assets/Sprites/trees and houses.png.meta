@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 00b1c1be2bb744a4e988089dad5a6c13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5438164783650397323
+    second: trees and houses_0
+  - first:
+      213: 5339011490935696923
+    second: trees and houses_1
+  - first:
+      213: 2387099829537849384
+    second: trees and houses_2
+  - first:
+      213: 5399569740318746017
+    second: trees and houses_3
+  - first:
+      213: -8665948738709632395
+    second: trees and houses_4
+  - first:
+      213: 4205607205041059598
+    second: trees and houses_5
+  - first:
+      213: -2867216990779292470
+    second: trees and houses_6
+  - first:
+      213: -1453608728985746667
+    second: trees and houses_7
+  - first:
+      213: 6608942882952358112
+    second: trees and houses_8
+  - first:
+      213: 1480968479242207611
+    second: trees and houses_9
+  - first:
+      213: -7657696747949706379
+    second: trees and houses_10
+  - first:
+      213: 9217879309794666322
+    second: trees and houses_11
+  - first:
+      213: 1004719359214207131
+    second: trees and houses_12
+  - first:
+      213: -3365717082884542702
+    second: trees and houses_13
+  - first:
+      213: 5441375821448038332
+    second: trees and houses_14
+  - first:
+      213: 350460282397661583
+    second: trees and houses_15
+  - first:
+      213: -4543672336728216437
+    second: trees and houses_16
+  - first:
+      213: -5722681783924339464
+    second: trees and houses_17
+  - first:
+      213: 7649441757101103659
+    second: trees and houses_18
+  - first:
+      213: 8080779436004047515
+    second: trees and houses_19
+  - first:
+      213: 9043181798963822466
+    second: trees and houses_20
+  - first:
+      213: -6284135083243529860
+    second: trees and houses_21
+  - first:
+      213: -6136964618539754131
+    second: trees and houses_22
+  - first:
+      213: -3749125259606267058
+    second: trees and houses_23
+  - first:
+      213: 7713856131566292615
+    second: trees and houses_24
+  - first:
+      213: 358428924831940710
+    second: trees and houses_25
+  - first:
+      213: -4392659088239285417
+    second: trees and houses_26
+  - first:
+      213: 8426655743658512709
+    second: trees and houses_27
+  - first:
+      213: 7273250887734253450
+    second: trees and houses_28
+  - first:
+      213: -2769417310538033680
+    second: trees and houses_29
+  - first:
+      213: 3621586024529068745
+    second: trees and houses_30
+  - first:
+      213: -5115414313233187558
+    second: trees and houses_31
+  - first:
+      213: -6580989121444095802
+    second: trees and houses_32
+  - first:
+      213: -7794240898506640142
+    second: trees and houses_33
+  - first:
+      213: -2837603923124466100
+    second: trees and houses_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trees and houses_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 825
+        width: 463
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c558fde0e387b40800000000000000
+      internalID: 5438164783650397323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_1
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1014
+        width: 206
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e63f8e9aaf71a40800000000000000
+      internalID: 5339011490935696923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_2
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 785
+        width: 109
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820cff6c5aea02120800000000000000
+      internalID: 2387099829537849384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_3
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 793
+        width: 144
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5a5a712102fea40800000000000000
+      internalID: 5399569740318746017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1136
+        width: 154
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ac77b498d5cb780800000000000000
+      internalID: -8665948738709632395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_5
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1120
+        width: 203
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07bb4188715d5a30800000000000000
+      internalID: 4205607205041059598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_6
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1120
+        width: 241
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4c2aa86599538d0800000000000000
+      internalID: -2867216990779292470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_7
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 739
+        width: 180
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513c562009eb3dbe0800000000000000
+      internalID: -1453608728985746667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_8
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 785
+        width: 284
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8a83f498ea7bb50800000000000000
+      internalID: 6608942882952358112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_9
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 845
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7148c04cf47d8410800000000000000
+      internalID: 1480968479242207611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_10
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 841
+        width: 238
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5733bc441656ab590800000000000000
+      internalID: -7657696747949706379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_11
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 875
+        width: 177
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257ebb2d46c7cef70800000000000000
+      internalID: 9217879309794666322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 435
+        width: 265
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90cbe81fea71fd00800000000000000
+      internalID: 1004719359214207131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 449
+        width: 210
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fe33c35229a41d0800000000000000
+      internalID: -3365717082884542702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 474
+        width: 179
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb74fceda76a38b40800000000000000
+      internalID: 5441375821448038332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_15
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 461
+        width: 121
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89123025c51dd400800000000000000
+      internalID: 350460282397661583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_16
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 500
+        width: 208
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cab894512a1f0c0800000000000000
+      internalID: -4543672336728216437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_17
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 518
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc4792dc33f490b0800000000000000
+      internalID: -5722681783924339464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_18
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 505
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a1d06efb6482a60800000000000000
+      internalID: 7649441757101103659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_19
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 524
+        width: 84
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a7d4f4512b42070800000000000000
+      internalID: 8080779436004047515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_20
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 432
+        width: 191
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f348eeee5df7d70800000000000000
+      internalID: 9043181798963822466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_21
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 303
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7913b2cf644ac8a0800000000000000
+      internalID: -6284135083243529860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_22
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 309
+        width: 130
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d1cc8c13f15daa0800000000000000
+      internalID: -6136964618539754131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_23
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 300
+        width: 133
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b69baa07e68fbc0800000000000000
+      internalID: -3749125259606267058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_24
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 385
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e4a7a284f1d0b60800000000000000
+      internalID: 7713856131566292615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_25
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 352
+        width: 88
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66045d5453569f400800000000000000
+      internalID: 358428924831940710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_26
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 314
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b2b1225d32a03c0800000000000000
+      internalID: -4392659088239285417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_27
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 264
+        width: 107
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5415545a0ce71f470800000000000000
+      internalID: 8426655743658512709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 147
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87d1b5a527cfe460800000000000000
+      internalID: 7273250887734253450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_29
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 147
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5109a01ad0199d0800000000000000
+      internalID: -2769417310538033680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_30
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 202
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c203932d45724230800000000000000
+      internalID: 3621586024529068745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_31
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 122
+        width: 163
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d79c4e8c56209b0800000000000000
+      internalID: -5115414313233187558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_32
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 212
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c85d99f241aba4a0800000000000000
+      internalID: -6580989121444095802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_33
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 188
+        width: 102
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4b0bec23b45d390800000000000000
+      internalID: -7794240898506640142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trees and houses_34
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 182
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e49e4244ece98d0800000000000000
+      internalID: -2837603923124466100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 188ea09cb1c765a4f96b97ba597866c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      trees and houses_0: 5438164783650397323
+      trees and houses_1: 5339011490935696923
+      trees and houses_10: -7657696747949706379
+      trees and houses_11: 9217879309794666322
+      trees and houses_12: 1004719359214207131
+      trees and houses_13: -3365717082884542702
+      trees and houses_14: 5441375821448038332
+      trees and houses_15: 350460282397661583
+      trees and houses_16: -4543672336728216437
+      trees and houses_17: -5722681783924339464
+      trees and houses_18: 7649441757101103659
+      trees and houses_19: 8080779436004047515
+      trees and houses_2: 2387099829537849384
+      trees and houses_20: 9043181798963822466
+      trees and houses_21: -6284135083243529860
+      trees and houses_22: -6136964618539754131
+      trees and houses_23: -3749125259606267058
+      trees and houses_24: 7713856131566292615
+      trees and houses_25: 358428924831940710
+      trees and houses_26: -4392659088239285417
+      trees and houses_27: 8426655743658512709
+      trees and houses_28: 7273250887734253450
+      trees and houses_29: -2769417310538033680
+      trees and houses_3: 5399569740318746017
+      trees and houses_30: 3621586024529068745
+      trees and houses_31: -5115414313233187558
+      trees and houses_32: -6580989121444095802
+      trees and houses_33: -7794240898506640142
+      trees and houses_34: -2837603923124466100
+      trees and houses_4: -8665948738709632395
+      trees and houses_5: 4205607205041059598
+      trees and houses_6: -2867216990779292470
+      trees and houses_7: -1453608728985746667
+      trees and houses_8: 6608942882952358112
+      trees and houses_9: 1480968479242207611
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
