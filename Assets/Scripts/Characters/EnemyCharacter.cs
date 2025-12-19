@@ -24,8 +24,8 @@ public class EnemyCharacter : Character
         _suspicion = Mathf.Clamp
         (
             value: _suspicion + Suspiciousness,
-            min: _score,
-            max: MaxScore
+            min: _suspicion,
+            max: MaxSuspicion
         );
 
         DiceGameManager.Instance.UpdateEnemySuspicionUI();
