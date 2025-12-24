@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99bf5fc03843c5c4db0fb26054df7f47, type: 3}
   m_Name: Test Enemy Data
   m_EditorClassIdentifier: 
-  _uiSprite: {fileID: 0}
+  _uiSprite: {fileID: 6512088219726483172, guid: 0299f313008f4a64ab2701e2cb6565a0, type: 3}
   _name: "\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0442\u0438\u0432\u043D\u0438\u043A"
   _luck: 1
   _suspiciousness: 20

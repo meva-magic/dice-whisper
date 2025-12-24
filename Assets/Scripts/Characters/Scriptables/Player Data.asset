@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c264fe72dcef2f479b455858bbcca02, type: 3}
   m_Name: Player Data
   m_EditorClassIdentifier: 
-  _uiSprite: {fileID: 0}
+  _uiSprite: {fileID: -2858844513670051186, guid: c115c4a926356764dafad264ccc9efdc, type: 3}
   _name: "\u0418\u0433\u0440\u043E\u043A"
   _luck: 1
   _score: 0
